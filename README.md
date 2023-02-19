@@ -73,7 +73,7 @@ I then grab the value of the button and replaced the paragraph in the *Thank com
 
 The issues I ran with during project was that when I grab the value of the button it kept grabbing the whole element instead, so when I inserted the the result in the ratingResult variable I kept getting an error that displayed [objectHTMLButton element] which is not what I wanted. 
 To solve this issue, I just needed to add a value property to my buttons so that when they are clicked it provides me with an actual value and not the whole element.
-I found the solution here ![](https://stackoverflow.com/questions/74434048/js-is-showing-object-htmlbuttonelement-onclick)
+I found the solution here (https://stackoverflow.com/questions/74434048/js-is-showing-object-htmlbuttonelement-onclick)
 
 ### Continued development
 
